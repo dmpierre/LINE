@@ -1,6 +1,6 @@
 ### Large Scale Information Network Embedding (LINE) - PyTorch Implementation
 
-*For python 3 and above.*
+*For python 3 and above. This is a toy implementation and should be treated as so.*
 
 #### Description
 
